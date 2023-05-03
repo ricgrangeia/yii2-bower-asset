@@ -10,11 +10,17 @@
     },
     "provide": {
         "bower-asset/jquery": "*",
+        "bower-asset/jquery-ui": "*",
         "bower-asset/inputmask": "*",
         "bower-asset/punycode": "*",
         "bower-asset/yii2-pjax": "*",
         "bower-asset/bootstrap": "*",
-        "bower-asset/typeahead.js": "*"
+        "bower-asset/typeahead.js": "*",
+        "bower-asset/fullcalendar": "*",
+        "bower-asset/fullcalendar-scheduler": "*",
+        "bower-asset/moment": "*",
+        "bower-asset/clipboard": "*",
+        "bower-asset/chartjs": "*"
     },
     "autoload": {
         "psr-4": {
